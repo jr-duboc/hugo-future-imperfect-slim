@@ -1,4 +1,3 @@
-test
 # Hugo Future Imperfect Slim
 
 **Hugo Future Imperfect** *Slim* is a theme based on [jpescador's](https://github.com/jpescador/)
